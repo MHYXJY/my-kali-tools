@@ -1,0 +1,12 @@
+Install  the  Termux.apk
+open	Termux.apk
+
+
+1.pkg	install	  git
+2.pkg	install   python
+3.pkg	install   proot
+4.git  	clone	  https://github.com/AnonHackerr/toolss.git
+
+5.cd toolss
+6.chmod Toolss.py	or	chmod +x Toolss.py
+7.python Toolss.py
